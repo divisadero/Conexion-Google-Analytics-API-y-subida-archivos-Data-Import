@@ -16,7 +16,7 @@ Nos pedira una autorización mediante el navegador y la escritura del codigo que
 
 Si todo va bien nos dará un valor de salida de un profile_id
 
-Para subir un archivo a data import tenemos que añadir la direccion del archivo al código en "path_and_file" y el "client_secrets.json" de igual manera que en el "HelloAnalytics.py"
+Para subir un archivo a data import tenemos que: en el archivo Upload2DataImport.py añadir la direccion del archivo al código en "path_and_file" y el "client_secrets.json" de igual manera que en el "HelloAnalytics.py"
 
 Además de los datos de cuenta, propiedad y fuente de datos de data import.
 
